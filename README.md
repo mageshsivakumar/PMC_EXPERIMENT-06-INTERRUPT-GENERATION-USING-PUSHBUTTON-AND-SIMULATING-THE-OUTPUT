@@ -1,7 +1,7 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
-## Name :
-## Roll no :
-## Date of Experiment :
+## Name : Kishorekumar S
+## Roll no : 212224040162
+## Date of Experiment : 20/08/2026
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
 
@@ -196,10 +196,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
- 
+<img width="1352" height="944" alt="Screenshot 2026-08-18 095612" src="https://github.com/user-attachments/assets/45f8940d-8192-4f6e-989a-ff013762c092" />
+
+ <img width="1353" height="940" alt="Screenshot 2026-08-18 095632" src="https://github.com/user-attachments/assets/7cf2dc31-137e-43c0-a217-0cc64480a483" />
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
+<img width="1024" height="844" alt="image" src="https://github.com/user-attachments/assets/c00e7e60-5d2a-4642-a6dc-c6cec7abc8a9" />
+
  
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
