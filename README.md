@@ -1,7 +1,7 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
 ## Name : MAGESH S
 ## Roll no : 212224040180
-## Date of Experiment : 22/08/2026
+## Date of Experiment : 18/08/2026
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
 
